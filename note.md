@@ -29,6 +29,12 @@ const - redeclaration and reintialization both are not possible
 * loose equality(==) ==> it is comparing only values
 * strict eqality(===) ==> it is used to compare values and  data type
 
-** **
+# Types of function
+*Function declaration
+*Function expression
+*Arrow function(ES6)
+*Anonymomus function
+
+
 
  
