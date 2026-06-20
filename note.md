@@ -35,6 +35,20 @@ const - redeclaration and reintialization both are not possible
 *Arrow function(ES6)
 *Anonymomus function
 
+# lteration methods 
+*map
+*filter
+*foreach
+
+what is the differnce blw map and foreach
+
+# transformation methods
+*reduced 
+*sort
+*reverse
+
+**arr splice is very important function which is used to add and remvoe elemenst in ist**
+**map
 
 
  
