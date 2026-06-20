@@ -50,7 +50,19 @@ what is the differnce blw map and foreach
 **arr splice is very important function which is used to add and remvoe elemenst in ist**
 **map
 
-testing github
+# event handling
+# features of react
+*one way data flow
+*jsx
+*fast rendering
+*reusable code
+*virtual DOM
+*component based archietcture
+
+
+**react supports single page appilication(spa)**
+*loads a single page and dynamically updates content without refreshing the entire page
+*eg-gmail,fb,ig
 
 
  
