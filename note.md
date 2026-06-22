@@ -64,5 +64,22 @@ what is the differnce blw map and foreach
 *loads a single page and dynamically updates content without refreshing the entire page
 *eg-gmail,fb,ig
 
+**diifng - is the process of comparing the old virtual DOM with the new virtual DOM to identufy the exact changes that need to be applied to the real DOM**
+
+**Reconciliation - is the processs by which react updates the real dom erricently after diffing by applyingonly the necessary changes**
+
+
+# jsx
+
+**jsx is not html**
+ 
+**it looks like html behind the scences react converts jsx into javascript using babel(js compiler)**
+
+**jsx(javascript xml) is a syntax extension for js that allows us to write HTML - like code inside javascript**
+
+# jsx rules
+one parent elemnt 
+className instead of class
+javaScript inside {}
 
  
